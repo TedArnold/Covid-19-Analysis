@@ -38,9 +38,9 @@ The dataset had lots of missing values.
 
 Those with 100% missing values we dropped while the rest we filled with their means.
 
-Here is a plot of
+Here is a plot of the missing values
 
-![](Datacleaning.png)
+![](datacleaning.png)
 
 ## EDA
 
@@ -50,4 +50,4 @@ Here are some of the visualizations I made.
 
 ![](DeathRateGender.png)
 
-![](FromWuhan.png)
+![](fromWuhan.png)
